@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://github.com/surendrasaipatnaik/Banner" alt=GitHub banner" width="800"/>
+</div>
 # 💫 About Me:
 Desktop engineer
 https://github.com/surendrasaipatnaik/Banner
